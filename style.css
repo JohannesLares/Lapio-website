@@ -1,1 +1,4 @@
-p { background-color: red; }
+p,h2,h4, p i { color: darkred; }
+h1 {color:blue;}
+ul {color: pink;}
+i {color: red;}
