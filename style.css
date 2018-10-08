@@ -1,4 +1,16 @@
-p,h2,h4, p i { color: darkred; }
-h1 {color:blue;}
-ul {color: pink;}
-i {color: red;}
+body{
+  margin: 10%;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+img{
+  float: right;
+  top: 0;
+  width: 48%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+h1{
+  width: 48%;
+}
