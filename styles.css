@@ -1,0 +1,14 @@
+.top{
+  height: 100px;
+}
+
+.eka, .toka, .kolmas{
+  height: 100%;
+  width: 10%;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.eka{ background-color: green;}
+.toka{background-color: yellow;}
+.kolmas{background-color: red;}
